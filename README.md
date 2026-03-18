@@ -2,6 +2,8 @@
 text파일과 폴더로 구성돼 있습니다. <br>
 로컬에서만 저장 가능합니다 <br>
 안드로이드 기본 파일 앱등을 통해서 해당 파일과 폴더를 공유할 수 있습니다. <br>
+앱의 기본 폴더는 안드로이드 - Documents- MyNovelLibrary 입니다. <br>
+파일 탐색기 앱을 통해서 자유롭게 접근, 수정, 변경, 삭제, 공유 가능합니다. <br>
 <div>
 <img width="200" src="https://github.com/user-attachments/assets/ef7a2afb-8337-43d9-808f-82c3c08c34a1">
 <img width="200" src="https://github.com/user-attachments/assets/47f36cdd-bc9e-40a5-bc9b-c12f710f728b">
