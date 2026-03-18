@@ -7,7 +7,6 @@
 파일 탐색기 앱을 통해서 자유롭게 접근, 수정, 변경, 삭제, 공유 가능합니다. <br>
 기존 작업 중이던 txt 원고는 폴더 내부에 넣어주세요.(Utf-8 형식)<br>
 <br>
-앱 내부에 삭제 버튼 없습니다. <br>
 <div>
 <img width="200" src="https://github.com/user-attachments/assets/ef7a2afb-8337-43d9-808f-82c3c08c34a1">
 <img width="200" src="https://github.com/user-attachments/assets/47f36cdd-bc9e-40a5-bc9b-c12f710f728b">
