@@ -5,7 +5,6 @@
 안드로이드 기본 파일 앱등을 통해서 해당 파일과 폴더를 공유할 수 있습니다. <br>
 앱의 기본 폴더는 안드로이드 - Documents- MyNovelLibrary 입니다. <br>
 파일 탐색기 앱을 통해서 자유롭게 접근, 수정, 변경, 삭제, 공유 가능합니다. <br>
-기존 작업 중이던 txt 원고는 폴더 내부에 넣어주세요.(Utf-8 형식)<br>
 <br>
 <div>
 <img width="200" src="https://github.com/user-attachments/assets/ef7a2afb-8337-43d9-808f-82c3c08c34a1">
