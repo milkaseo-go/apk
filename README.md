@@ -5,6 +5,8 @@
 안드로이드 기본 파일 앱등을 통해서 해당 파일과 폴더를 공유할 수 있습니다. <br>
 앱의 기본 폴더는 안드로이드 - Documents- MyNovelLibrary 입니다. <br>
 파일 탐색기 앱을 통해서 자유롭게 접근, 수정, 변경, 삭제, 공유 가능합니다. <br>
+https://huggingface.co/datasets/heymilka/apk/
+여기로 이사 감. apk 받을 수 있음. 
 <br>
 <div>
 <img width="200" src="https://github.com/user-attachments/assets/ef7a2afb-8337-43d9-808f-82c3c08c34a1">
